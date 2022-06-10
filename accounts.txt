@@ -1,0 +1,12 @@
+checking,101,Jon,Doe,230.00,True
+saving,102,Jane,Johnson,4000.34,2.2
+saving,103,Tim,McKinney,14030.22,1.7
+checking,104,Rick,Flair,145.00,False
+saving,105,George,Thompson,40000.34,1.2
+saving,107,Tyler,Hart,5100.14,1.7
+saving,108,Charles,Kavanaugh,72301.56,2.7
+checking,109,Matthew,Gross,2100.12,False
+checking,110,Alex,Leach,43330.48,True
+checking,111,Dustin,James,32.15,True
+saving,112,Jimmy,LaBarge,1800.19,2.4
+saving,113,Phil,Tocco,0.0,1.4
